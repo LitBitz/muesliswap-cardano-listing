@@ -1,0 +1,9 @@
+{
+    "policyId": "f5c9f30da6c94dff4e0aae2d0050b8f63ed93f71aa959374b588dafb",
+    "name": "LITZ",
+    "symbol": "LITZ",
+    "website": https://tcoomes89.wixsite.com/litz,
+    "description": "LITZ COIN is a Cardano Native token that allows owners to purchase limited release CNFT's that are 3D models from @LITZ_COIN ",
+    "totalSupply": 10000000000001,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
